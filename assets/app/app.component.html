@@ -1,3 +1,21 @@
-<h1>New DGP LLC repository!</h1>
-
-<p>Sorry about the delay. Installing a new database technology called MongoDB compared using the typical MySQL server relationship database.</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md offset-2">
+            <input type="text" [(ngModel)]="message.content">
+            <article class="panel panel-default">
+                <div class="panel-body">
+                    {{ message.content }}
+                </div>
+                <footer class="panel-footer">
+                    <div class="author">
+                        {{ message.author }}
+                    </div>
+                    <div class="config">
+                        <a href="#">Edit</a>
+                        <a href="#">Delete</a>
+                    </div>
+                </footer>
+            </article>
+        </div>
+    </div>
+</div>
