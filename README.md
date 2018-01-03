@@ -16,4 +16,4 @@ This will be a MEAN stack application website for a shirt printing company calle
 
 - Jan. 2
 
-- Learned how fetching with MongoDB in manual callbacks and templating. 
+- Learned how fetching with MongoDB in manual callbacks and templating.
