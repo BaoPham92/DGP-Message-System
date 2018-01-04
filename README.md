@@ -16,10 +16,15 @@ This will be a MEAN stack application website for a shirt printing company calle
 
 ------------------------------------------------------------
 
-- Jan. 2
+- Jan. 2.
 
 - Learned how fetching with MongoDB in manual callbacks and templating.
 
 - Reinforced with NodeJS and MongoDB callbacks. Time to implement some Angular.
 
 ------------------------------------------------------------
+
+- Jan. 3.
+
+- Added custom models for Angular.
+- Added a simple html and css bootstrap template to test models.
