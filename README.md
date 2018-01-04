@@ -16,7 +16,7 @@ This will be a MEAN stack application website for a shirt printing company calle
 
 ------------------------------------------------------------
 
-- Jan. 2.
+- Jan. 2nd.
 
 - Learned how fetching with MongoDB in manual callbacks and templating.
 
@@ -24,7 +24,15 @@ This will be a MEAN stack application website for a shirt printing company calle
 
 ------------------------------------------------------------
 
-- Jan. 3.
+- Jan. 3rd.
 
 - Added custom models for Angular.
 - Added a simple html and css bootstrap template to test models.
+
+------------------------------------------------------------
+
+- Jan. 4th.
+
+- Starting the early morning of 1:28 AM off with some directory structuring. Added seperate components.
+
+- Side banter, got a job offer and extra training out in CA today. Sounds awesome for a new years start! Hopefully this goes well. Wish me luck anyone reading this!
