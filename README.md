@@ -36,3 +36,15 @@ This will be a MEAN stack application website for a shirt printing company calle
 - Starting the early morning of 1:28 AM off with some directory structuring. Added seperate components.
 
 - Side banter, got a job offer and extra training out in CA today. Sounds awesome for a new years start! Hopefully this goes well. Wish me luck anyone reading this!
+
+------------------------------------------------------------
+
+Jan. 5th.
+
+- Didn't really get much code done in the pass couple of days. Excited for the job position that might be a big move! Been looking into the company and it seems like something I can give a shot given how I don't have much field work.
+
+That being said, lets go ahead and add more to the Angular code.
+
+- Added full component setup and connected to module for User and Message.
+
+------------------------------------------------------------
