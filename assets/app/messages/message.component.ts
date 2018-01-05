@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
     styleUrls: ['message.component.css']
 })
 export class MessageComponent{
-    
+    message = {
+        content: 'Testing message for Kuso',
+        author: 'Kuso'
+    }
 }
