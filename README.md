@@ -39,12 +39,14 @@ This will be a MEAN stack application website for a shirt printing company calle
 
 ------------------------------------------------------------
 
-Jan. 5th.
+- Jan. 5th.
 
 - Didn't really get much code done in the pass couple of days. Excited for the job position that might be a big move! Been looking into the company and it seems like something I can give a shot given how I don't have much field work.
 
 That being said, lets go ahead and add more to the Angular code.
 
 - Added full component setup and connected to module for User and Message.
+
+- Well a new update on the job offer. I aced the the technical interview in record time for immediately having me clearing the stage compared to other candidates apparently, but in the end the company did not take me because I did not have a degree even though I proved able.
 
 ------------------------------------------------------------
