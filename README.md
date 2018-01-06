@@ -49,4 +49,6 @@ That being said, lets go ahead and add more to the Angular code.
 
 - Well a new update on the job offer. I aced the the technical interview in record time for immediately having me clearing the stage compared to other candidates apparently, but in the end the company did not take me because I did not have a degree even though I proved able.
 
+- Other than that, reaching 8:43pm and I finally implemented some property binding. This is actually pretty dynamic compared to the more static approach with the interpolation. 
+
 ------------------------------------------------------------
